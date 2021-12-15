@@ -139,7 +139,7 @@ Developed in 7 days by Luciano Santana and Matheus Anjo at Ironhack São Paulo B
   
   
 
-- Matheus Anjo.
+- Matheus Anjo
 
   
 
