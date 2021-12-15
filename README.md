@@ -13,7 +13,7 @@ Hi! This is our third project from Ironhack Web Development Bootcamp, we where c
   
   
 
-![gif1](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639608921/pictures/ezgif.com-gif-maker_5_gvzagm.gif))
+![gif1](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639608921/pictures/ezgif.com-gif-maker_5_gvzagm.gif)
 
   
   
@@ -105,19 +105,19 @@ Developed in 7 days by Luciano Santana and Matheus Anjo at Ironhack São Paulo B
 
   
 
-![ezgif com-gif-maker (1)](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639609769/pictures/ezgif.com-gif-maker_8_gxglbd.gif))
+![ezgif com-gif-maker (1)](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639609769/pictures/ezgif.com-gif-maker_8_gxglbd.gif)
 
   
 
 - Delete data from the API by the ID
 
-![gif](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639609923/pictures/ezgif.com-gif-maker_10_nz5mx4.gif))
+![gif](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639609923/pictures/ezgif.com-gif-maker_10_nz5mx4.gif)
 
   
 
 - Update existing API data
 
-![gif](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639610029/pictures/ezgif.com-gif-maker_11_fjmpov.gif))
+![gif](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639610029/pictures/ezgif.com-gif-maker_11_fjmpov.gif)
 
   
   
