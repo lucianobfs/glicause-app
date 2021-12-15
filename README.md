@@ -13,7 +13,7 @@ Hi! This is our third project from Ironhack Web Development Bootcamp, we where c
   
   
 
-![gif1](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639608921/pictures/ezgif.com-gif-maker_5_gvzagm.gif)
+![gif1](https://res.cloudinary.com/dzm8l29kq/image/upload/v1639610654/pictures/ezgif.com-gif-maker_14_o3n2cz.gif)
 
   
   
