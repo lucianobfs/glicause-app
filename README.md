@@ -17,6 +17,14 @@ Hi! This is our third project from Ironhack Web Development Bootcamp, we where c
 
   
   
+# Repositories
+
+- Frontend: 
+https://github.com/lucianobfs/proj3_frontend_glicause_app
+
+- Backend:
+https://github.com/lucianobfs/proj3_backend_glicause_app
+
 
 # Stacks Used
 
