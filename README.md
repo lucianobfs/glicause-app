@@ -26,8 +26,8 @@ https://github.com/lucianobfs/proj3_frontend_glicause_app
 https://github.com/lucianobfs/proj3_backend_glicause_app
 
 
-# SlideShow
-- Link:
+# Google Slides
+- slideshow:
 https://docs.google.com/presentation/d/1uNjzkJKU8p4lQEmjxl-3EMseG9eviDVc0pEs7C_vqxY/edit?usp=sharing 
 
 
